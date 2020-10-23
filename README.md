@@ -1,3 +1,3 @@
-# Notes App in ReactJS with Firebase db connectivity,
+## Notes App in ReactJS with Firebase db connectivity,
 
 Live App: https://notes-21.web.app
