@@ -1,3 +1,3 @@
-# Notes-App-ReactJS
+# Notes-App-ReactJS with Firebase db connectivity,
 
-Live - https://notes-21.web.app
+Live App: https://notes-21.web.app
